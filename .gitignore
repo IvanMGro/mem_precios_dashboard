@@ -1,0 +1,12 @@
+# Crear .gitignore y excluir archivos de sistema
+echo ".DS_Store" > .gitignore
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore
+echo ".streamlit/secrets.toml" >> .gitignore
+echo ".streamlit/cache/" >> .gitignore
+
+# Agregar .gitignore
+git add .gitignore
+
+# Verificar que .DS_Store sigue en staging
+git status
