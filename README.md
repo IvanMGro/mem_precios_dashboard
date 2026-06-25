@@ -7,7 +7,7 @@ Aplicación interactiva para consultar y visualizar los precios zonales del Sist
 ## 🚀 Características
 
 - 📊 Consulta de precios MDA (Día Adelantado) y MTR (Tiempo Real)
-- 🗺️ 15 zonas disponibles del SIN
+- 🗺️ 101 zonas disponibles del SIN
 - 📅 Selección de rango de fechas
 - 📈 Gráficos interactivos (líneas y barras)
 - 📋 Tabla detallada con todos los datos
